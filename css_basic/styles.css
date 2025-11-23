@@ -17,3 +17,7 @@ aside {
     overflow-y: auto
 }
 
+.logo {
+    width: 100px;   
+    height: auto;
+}
